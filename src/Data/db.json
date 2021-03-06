@@ -1,0 +1,32 @@
+[
+  {
+    "sortCode": "11-22-33",
+    "accountNumber": "123456789",
+    "accountType": "Savings Account",
+    "accountName": "GS Kumar"
+  },
+  {
+    "sortCode": "11-22-34",
+    "accountNumber": "123456790",
+    "accountType": "Current Account",
+    "accountName": "Shrikrishna O Fafat"
+  },
+  {
+    "sortCode": "11-22-35",
+    "accountNumber": "123456791",
+    "accountType": "Fixed Deposit Account",
+    "accountName": "Ajay Naphade"
+  },
+  {
+    "sortCode": "11-22-36",
+    "accountNumber": "123456792",
+    "accountType": "Fixed Deposit Account",
+    "accountName": "Dilip Kulkarni"
+  },
+  {
+    "sortCode": "11-22-37",
+    "accountNumber": "123456793",
+    "accountType": "Savings Account",
+    "accountName": "Gauri Singh"
+  }
+]
